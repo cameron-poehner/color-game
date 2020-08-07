@@ -26,3 +26,11 @@ h1 {
     color: black;
 }
 
+.selected {
+    background-color: blue;
+}
+
+.hidden {
+    height: 0px;
+    visibility: hidden;
+}
